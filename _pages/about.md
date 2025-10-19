@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of ICSE](https://icse.uestc.edu.cn/), [UESTC](https://uestc.edu.cn/). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
+I am a Ph.D. candidate in Control Science and Engineering at the Research Institute of Intelligent Control and Systems, Harbin Institute of Technology [HIT](https://www.hit.edu.cn/), Harbin, China. My research focuses on computational optical imaging, image restoration and enhancement, computer vision, and deep learning. To date, I have authored or co-authored ~30 publications across journals and conferences. I am open to research collaborations.
 
 A data-driven personal website
 ======
