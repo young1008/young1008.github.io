@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Control Science and Engineering at the Research Instit
 
 My research interests include computational optical imaging, image restoration and enhancement, computer vision, and deep learning. To date, I have authored or co-authored ~30 publications across journals and conferences.
 
-I am open to research collaborations. If you are interested in collaboration or academic exchange, feel free to contact me at [yangh23@stu.hit.edu.cn].
+I am open to research collaborations. If you are interested in collaboration or academic exchange, feel free to contact me at [yangh23@stu.hit.edu.cn](https://young1008.github.io//).
 
 News
 ======
