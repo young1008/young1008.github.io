@@ -21,11 +21,14 @@ IEEE Transactions on Instrumentation and Measurement (TIM) 2025 [[paper](https:/
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang
 Biomedical Signal Processing and Control 2025 [[paper](https://doi.org/10.1016/j.bspc.2025.108849)]
 - **Two-Stage Zero-Shot Denoising and Enhancement for Structured Illumination Microscopy**
-Hong Yang and Xianqiang Yang
+**Hong Yang** and Xianqiang Yang
 Digital Signal Processing 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]
-
-
-
+- **LMA-DETR: A Multi-Scale Detection Framework for Seed Defect Screening**
+Hao Li, **Hong Yang**, Zhuqi Li, Wangyu Wu, Dongkui Chen, Xuanlong He, and Hongbo Mu 
+Digital Signal Processing [[paper](https://doi.org/10.1016/j.dsp.2025.105639)]
+- **MRI-based diagnostic model for Alzheimer’s disease using 3D-ResNet**
+Dongkui Chen, **Hong Yang**, Hao Li, Xuanlong He, and Hongbo Mu
+Biomedical Physics & Engineering Express [[paper](https://doi.org/10.1088/2057-1976/add73d)]
 
 
 Activities
