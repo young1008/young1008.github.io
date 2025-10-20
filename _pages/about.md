@@ -27,7 +27,10 @@ Biomedical Signal Processing and Control 2025 [[paper](https://doi.org/10.1016/j
 Digital Signal Processing 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]
 - **A Type-independent Unknown Parameters Estimation Method for Lead Component**
 **Hong Yang**, Xinpeng Liu, Weihua Liu, and Xianqiang Yang  
-IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society 2024 [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]  
+IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society 2024 [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]
+- **Light and wood: A review of optically transparent wood for architectural applications**
+**Hong Yang**, Hang Wang, Taoyang Cai, Shangjie Ge-Zhang, Hongbo Mu
+Industrial Crops and Products 2023 [[paper](https://doi.org/10.1016/j.indcrop.2023.117287)]
 - **LMA-DETR: A Multi-Scale Detection Framework for Seed Defect Screening**  
 Hao Li, **Hong Yang**, Zhuqi Li, Wangyu Wu, Dongkui Chen, Xuanlong He, and Hongbo Mu  
 Digital Signal Processing 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105639)]
@@ -37,7 +40,15 @@ Biomedical Physics & Engineering Express 2025 [[paper](https://doi.org/10.1088/2
 - **SwinRes: A Hybrid Mmodel that Effectively Diagnoses COVID‐19 through X‐ray Lung Images**  
 Xuanlong He, **Hong Yang**, Jipan Xu, and Hongbo Mu
 International Journal of Imaging Systems and Technology 2024 [[paper](https://doi.org/10.1002/ima.23107)]  
-
+- **BACNN: Multi-scale feature fusion-based bilinear attention convolutional neural network for wood NIR classification**  
+Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi  
+Journal of Forestry Research 2023 [[paper](https://doi.org/10.1007/s11676-023-01652-z)]
+- **BO-densenet: A bilinear one-dimensional densenet network based on multi-scale feature fusion for wood NIR classification**  
+Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi  
+Chemometrics and Intelligent Laboratory Systems 2023 [[paper](https://doi.org/10.1016/j.chemolab.2023.104920)]
+- **BO-densenet: A bilinear one-dimensional densenet network based on multi-scale feature fusion for wood NIR classification**  
+Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi  
+Chemometrics and Intelligent Laboratory Systems 2023 [[paper](https://doi.org/10.1016/j.chemolab.2023.104920)]  
 
 Activities / Service
 ======
@@ -55,7 +66,7 @@ Activities / Service
 - Expert Systems with Applications  
 - Computer Vision and Image Understanding (CVIU)  
 - Information Sciences  
-- Journal of Visual Communication and Image Representation(JVCI)  
+- Journal of Visual Communication and Image Representation (JVCI)  
 - Biomedical Signal Processing and Control  
 - Optics & Laser Technology  
 - Pattern Recognition Letters  
