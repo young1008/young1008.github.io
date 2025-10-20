@@ -45,7 +45,8 @@ Activities / Service
 - Student Member of **IEEE**, **IEEE Industrial Electronics Society (IES)**, **China Society of Image and Graphics (CSIG)**
 
 **Conference Reviewer:**  
-- IECON (Annual Conference of the IEEE Industrial Electronics Society)  
+- IECON (Annual Conference of the IEEE Industrial Electronics Society)
+
 **Journal Reviewer:**  
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
 - Neural Networks  
