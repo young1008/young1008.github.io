@@ -11,18 +11,22 @@ I am a Ph.D. candidate in Control Science and Engineering at the Research Instit
 
 Publications
 ======
-- Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy
-Hong Yang and Xianqiang Yang
+- **Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy**
+**Hong Yang** and Xianqiang Yang
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2025 [[paper](https://doi.org/10.1109/TPAMI.2025.3612886)]
-- Self-supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling
-Hong Yang and Xianqiang Yang
+- **Self-supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**
+**Hong Yang** and Xianqiang Yang
 IEEE Transactions on Instrumentation and Measurement (TIM) 2025 [[paper](https://doi.org/10.1109/TIM.2025.3575962)]
-- Physically-inspired self-supervised denoising for structured illumination microscopy via noise decomposition and recorruption
-Hong Yang, Ruohong Xu, and Xianqiang Yang
+- **Physically-inspired self-supervised denoising for structured illumination microscopy via noise decomposition and recorruption**
+**Hong Yang**, Ruohong Xu, and Xianqiang Yang
 Biomedical Signal Processing and Control 2025 [[paper](https://doi.org/10.1016/j.bspc.2025.108849)]
-- Two-Stage Zero-Shot Denoising and Enhancement for Structured Illumination Microscopy
+- **Two-Stage Zero-Shot Denoising and Enhancement for Structured Illumination Microscopy**
 Hong Yang and Xianqiang Yang
 Digital Signal Processing 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]
+
+
+
+
 
 Activities
 ======
