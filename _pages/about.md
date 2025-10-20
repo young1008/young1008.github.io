@@ -13,6 +13,12 @@ My research interests include computational optical imaging, image restoration a
 
 If you are interested in collaboration or academic exchange, feel free to contact me at yangh23@stu.hit.edu.cn.
 
+News
+======
+- [2025.10] Invited to review for IEEE TCSVT.
+- [2025.09] One paper is accepted by IEEE TPAMI.
+- [2025.05] One paper is accepted by IEEE TIM.
+
 Publications
 ======
 A full publication list is available on [Researchgate](https://www.researchgate.net/profile/Hong-Yang-72).
