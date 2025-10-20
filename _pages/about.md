@@ -24,12 +24,15 @@ Biomedical Signal Processing and Control 2025 [[paper](https://doi.org/10.1016/j
 - **Two-Stage Zero-Shot Denoising and Enhancement for Structured Illumination Microscopy**  
 **Hong Yang** and Xianqiang Yang
 Digital Signal Processing 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]
+- **A Type-independent Unknown Parameters Estimation Method for Lead Component**
+**Hong Yang**, Xinpeng Liu, Weihua Liu, and Xianqiang Yang
+IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society 2024 [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]
 - **LMA-DETR: A Multi-Scale Detection Framework for Seed Defect Screening**  
 Hao Li, **Hong Yang**, Zhuqi Li, Wangyu Wu, Dongkui Chen, Xuanlong He, and Hongbo Mu 
-Digital Signal Processing [[paper](https://doi.org/10.1016/j.dsp.2025.105639)]
-- **MRI-based diagnostic model for Alzheimer’s disease using 3D-ResNet**  
+Digital Signal Processing 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105639)]
+- **MRI-based Diagnostic Model for Alzheimer’s Disease Using 3D-ResNet**  
 Dongkui Chen, **Hong Yang**, Hao Li, Xuanlong He, and Hongbo Mu
-Biomedical Physics & Engineering Express [[paper](https://doi.org/10.1088/2057-1976/add73d)]
+Biomedical Physics & Engineering Express 2025 [[paper](https://doi.org/10.1088/2057-1976/add73d)]
 
 
 
