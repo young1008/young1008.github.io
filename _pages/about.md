@@ -74,8 +74,8 @@ Activities / Service
 - Computer Vision and Image Understanding (CVIU)  
 - Information Sciences  
 - Journal of Visual Communication and Image Representation (JVCI)  
-- Biomedical Signal Processing and Control  
-- Optics & Laser Technology  
+- Biomedical Signal Processing and Control (BSPC)  
+- Optics & Laser Technology (OLT)  
 - Pattern Recognition Letters  
 - Alexandria Engineering Journal  
 - Signal Processing: Image Communication  
