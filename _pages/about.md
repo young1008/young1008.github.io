@@ -51,7 +51,7 @@ Chemometrics and Intelligent Laboratory Systems 2023 [[paper](https://doi.org/10
 Activities / Service
 ======
 **Professional Membership:**
-- Student Member of **IEEE**, **IEEE Industrial Electronics Society (IES)**, **China Society of Image and Graphics (CSIG)**
+- Student Member of **IEEE**, **IEEE Industrial Electronics Society (IES)**, **China Society of Image and Graphics (CSIG)**.
 
 **Conference Reviewer:**  
 - IECON (Annual Conference of the IEEE Industrial Electronics Society)
