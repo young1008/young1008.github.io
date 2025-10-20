@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hong Yang (杨鸿) - HIT"
+title                    : "Hong Yang (杨鸿)young - HIT"
 title_separator          : "-"
 name                     : &name "Hong Yang"
 description              : &description "Hong Yang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
