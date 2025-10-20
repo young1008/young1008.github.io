@@ -21,7 +21,7 @@ News
 
 Publications
 ======
-A full publication list is available on [Researchgate](https://www.researchgate.net/profile/Hong-Yang-72).
+A full publication list is available on [ResearchGate](https://www.researchgate.net/profile/Hong-Yang-72).
 
 - **Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy**  
 **Hong Yang** and Xianqiang Yang  
