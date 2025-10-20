@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hong Yang (杨鸿)young1 - HIT"
+title                    : "Hong Yang (杨鸿) - HIT"
 title_separator          : "-"
 name                     : &name "Hong Yang"
 description              : &description "Hong Yang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -303,22 +303,22 @@ timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
+#plugins:
+#  - jekyll-feed
+#  - jekyll-gist
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-redirect-from
+#  - jemoji
 
 # Mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
+#whitelist:
+#  - jekyll-feed
+#  - jekyll-gist
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-redirect-from
+#  - jemoji
 
 
 # Archives
